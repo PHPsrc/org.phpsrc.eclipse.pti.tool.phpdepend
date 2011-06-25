@@ -81,7 +81,7 @@
 		</category>
 		<command
 			id="org.phpsrc.eclipse.pti.tools.phpdepend.ui.commands.validateresources"
-			categoryId="org.phpsrc.eclipse.pti.tools.phpcpd.ui.commands"
+			categoryId="org.phpsrc.eclipse.pti.tools.phpdepend.ui.commands"
 			name="PHP Depend">
 		</command>
 	</extension>
